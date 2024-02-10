@@ -1,0 +1,111 @@
+{
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "animations.Install-Method": "Apc Customize UI++",
+  "apc.electron": {
+    "titleBarStyle": "hidden"
+  },
+  "apc.font.family": "Dank Mono",
+  "apc.imports": [
+    "file:///Users/igorbabko/.vscode/extensions/brandonkirbyson.vscode-animations-2.0.1/dist/updateHandler.js"
+  ],
+  "apc.listRow": {
+    "height": 30,
+    "fontSize": 15,
+    "lists": ["explorer-folders-view", "quick-input-list", "results"]
+  },
+  "apc.stylesheet": {
+    ".filematch .monaco-count-badge": "padding: 5px 6px 0 6px !important",
+    ".filematch .monaco-icon-label:before, .custom-list-row.results .monaco-list-row .monaco-icon-label:before": "background-position: 0 bottom !important",
+    ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #67D0FF 10%, #C45DFF 100%)",
+    ".monaco-editor .scroll-decoration": "display: none !important",
+    ".monaco-scrollable-element > .shadow.top": "display: none !important",
+    ".monaco-split-view2 > .monaco-scrollable-element > .split-view-container": "background: #040404 !important;",
+    ".monaco-workbench .monaco-list:not(.element-focused):focus:before": "outline: none !important",
+    // ".panel .composite.title": "display:none !important",
+    ".quick-input-list-row div": "display: flex !important; align-items: center !important",
+    ".quick-input-widget.show-file-icons, .editor-widget.find-widget": "box-shadow: none !important",
+    ".sidebar": "border: none !important",
+    ".sidebar .title-label": "padding: 0 !important",
+    ".sidebar .title-label h2": "line-height: 2.8 !important",
+    // ".title-actions": "display: none !important",
+    ".title.show-file-icons .label-container .monaco-icon-label.file-icon": "padding-bottom: 6px !important"
+  },
+  "breadcrumbs.enabled": false,
+  "editor.accessibilitySupport": "off",
+  "editor.cursorBlinking": "solid",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Dank Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 14,
+  "editor.guides.indentation": false,
+  "editor.hover.enabled": false,
+  "editor.lightbulb.enabled": "off",
+  "editor.lineHeight": 2.5,
+  "editor.matchBrackets": "never",
+  "editor.minimap.enabled": false,
+  "editor.overviewRulerBorder": false,
+  "editor.renderLineHighlight": "none",
+  "editor.renderWhitespace": "none",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.showFoldingControls": "never",
+  "editor.tabSize": 2,
+  "explorer.compactFolders": false,
+  "explorer.confirmDelete": false,
+  "explorer.confirmDragAndDrop": false,
+  "extensions.ignoreRecommendations": true,
+  "files.autoSave": "afterDelay",
+  "files.insertFinalNewline": true,
+  "git.decorations.enabled": false,
+  "catppuccin-icons.hidesExplorerArrows": true,
+  "scm.diffDecorations": "none",
+  "terminal.integrated.fontFamily": "Dank Mono, JetBrainsMono Nerd Font",
+  "terminal.integrated.fontSize": 14,
+  "terminal.integrated.lineHeight": 1.8,
+  "window.commandCenter": false,
+  "window.titleBarStyle": "native",
+  "window.zoomLevel": 1,
+  "workbench.colorCustomizations": {
+    "editorSuggestWidget.selectedBackground": "#231739",
+    "sideBar.background": "#221c2c",
+    "list.activeSelectionBackground": "#231739",
+    "list.inactiveSelectionBackground": "#231739",
+    "list.focusBackground": "#231739",
+    "list.hoverBackground": "#231739",
+    "terminalCursor.foreground": "#C45DFF",
+    "terminal.background": "#040404"
+  },
+  "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
+  "workbench.iconTheme": "catppuccin-latte",
+  "workbench.layoutControl.enabled": false,
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": true,
+  "workbench.tips.enabled": false,
+  "workbench.tree.renderIndentGuides": "none",
+  "editor.glyphMargin": false,
+  "apc.activityBar": {
+    "position": "top",
+    "size": 35,
+    "itemSize": 30,
+    "itemMargin": 3
+  },
+  "apc.statusBar": {
+    "position": "bottom",
+    "height": 18,
+    "fontSize": 10
+  },
+  "terminal.integrated.defaultProfile.osx": "zsh",
+  "terminal.integrated.env.osx": {
+    "FIG_NEW_SESSION": "1"
+  },
+  "editor.mouseWheelZoom": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "codeium.enableCodeLens": false,
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
